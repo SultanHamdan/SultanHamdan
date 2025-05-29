@@ -7,7 +7,8 @@
 </div>
 
 ###
-
+<h3>🚀 Tech Stack:</h3>
+<hr/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -69,12 +70,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
-
-###
+<h3>👻 A little about me...</h3>
+<hr/>
 
 <p align="center">I'm a Full-Stack Software Engineer with a strong inclination towards creativity and innovation. My mission is to craft elegant, high-impact solutions that not only meet but exceed expectations. I thrive on challenges and am constantly seeking opportunities to learn, collaborate, and push the boundaries of what's possible.<br><br> As a backend specialist, I'm currently immersed in multiple Java-based projects, delivering scalable and efficient solutions. Driven by self-development, I never stand still; I'm always on the hunt for new opportunities, eager to collaborate, and explore diverse technologies. Engaged in competitive programming, I aim to sharpen my problem-solving skills and algorithmic thinking. <br><br>I actively seek to work with others, believing that collaboration leads to innovation and growth. Always experimenting with new tools and frameworks, I strive to broaden my technical horizon. Currently, I'm delving into advanced Java frameworks and microservices architecture, cloud-native development with Kubernetes and Docker, and system design and distributed systems.<br><br> Feel free to ask me about Java backend development and API design, strategies for competitive programming, or best practices in full-stack development. Fun fact: The term "debugging" originated when Grace Hopper removed an actual moth from a computer, fixing a glitch.</p>
-
-###
+<h3>🌐 Socials:</h3>
+<hr/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -97,8 +98,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SultanHamdan/SultanHamdan/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
+<hr/>
 <div align="center">
   <img src="https://profile-counter.glitch.me/SultanHamdan/count.svg?"  />
 </div>
