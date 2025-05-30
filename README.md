@@ -89,8 +89,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
-
-###
+<h3>📈 Activity:</h3>
+<hr/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SultanHamdan/SultanHamdan/output/pacman-contribution-graph-dark.svg">
@@ -98,7 +98,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SultanHamdan/SultanHamdan/output/pacman-contribution-graph.svg">
 </picture>
 
-<hr/>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/SultanHamdan/count.svg?"  />
 </div>
@@ -110,4 +110,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SultanHamdan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
