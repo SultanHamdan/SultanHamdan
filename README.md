@@ -73,7 +73,57 @@
 <h3>👻 A little about me...</h3>
 <hr/>
 
-<p align="center">I'm a Full-Stack Software Engineer with a strong inclination towards creativity and innovation. My mission is to craft elegant, high-impact solutions that not only meet but exceed expectations. I thrive on challenges and am constantly seeking opportunities to learn, collaborate, and push the boundaries of what's possible.<br><br> As a backend specialist, I'm currently immersed in multiple Java-based projects, delivering scalable and efficient solutions. Driven by self-development, I never stand still; I'm always on the hunt for new opportunities, eager to collaborate, and explore diverse technologies. Engaged in competitive programming, I aim to sharpen my problem-solving skills and algorithmic thinking. <br><br>I actively seek to work with others, believing that collaboration leads to innovation and growth. Always experimenting with new tools and frameworks, I strive to broaden my technical horizon. Currently, I'm delving into advanced Java frameworks and microservices architecture, cloud-native development with Kubernetes and Docker, and system design and distributed systems.<br><br> Feel free to ask me about Java backend development and API design, strategies for competitive programming, or best practices in full-stack development. Fun fact: The term "debugging" originated when Grace Hopper removed an actual moth from a computer, fixing a glitch.</p>
+<div align="center">
+
+
+  <p>
+    I'm a passionate Java Backend Developer with a strong foundation in building scalable, secure, and high-performance applications.<br>
+    My expertise lies in architecting clean backend systems using Java and Spring Boot.<br><br>
+    I love designing RESTful APIs, working with databases, and solving complex business logic with clean, maintainable code.
+  </p>
+
+</div>
+
+---
+
+### 🧠 What I Focus On
+
+- 🛠️ Backend Development with **Java, Spring Boot, Spring WebFlux**
+- 🗄️ Working with **MySQL, PostgreSQL, MongoDB, Couchbase**
+- ☁️ Exploring **Microservices, Docker, Kubernetes**
+- 📈 Emphasis on **clean code, performance optimization, and system design**
+
+---
+
+### 🚀 Currently Learning
+
+- Advanced Microservices Architecture
+- Reactive Programming with WebFlux
+- Distributed Systems & Cloud-Native Patterns
+- System Design & High-Scalability Architectures
+
+---
+
+### 💡 Interests
+
+- Practicing **Data Structures & Algorithms (DSA)** on platforms like **LeetCode**
+- Competitive Programming to sharpen problem-solving and algorithmic thinking
+- Constantly exploring new tools, frameworks, and best practices
+
+---
+
+### 💬 Ask Me About
+
+- Building robust Java backend systems
+- API design, JWT authentication, and database integration
+- Best practices in backend development
+
+---
+
+### ⚡ Fun Fact
+
+> The term “debugging” was coined when Grace Hopper removed an actual moth from a computer, fixing a glitch.
+
 <h3>🌐 Socials:</h3>
 <hr/>
 
